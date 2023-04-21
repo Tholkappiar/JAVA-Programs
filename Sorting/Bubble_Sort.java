@@ -1,5 +1,5 @@
 import java.util.Arrays;
-class BUbble_Sort {
+class Bubble_Sort {
     public static void main(String args[])
     {
         int arr[]={9,8,7,6,5,4,3,2,2,1};
