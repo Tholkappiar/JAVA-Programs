@@ -24,7 +24,7 @@ alice
 
  */
 import java.util.*;
-class main
+class frequency
 {
     public static void main(String args[])
     {

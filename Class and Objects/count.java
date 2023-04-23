@@ -10,13 +10,13 @@
      {
          Scanner sc=new Scanner(System.in);
          int n=sc.nextInt();
-         oper o = new oper(n);   
+         print1 o = new print1(n);
          
      }
  }
- class oper
+ class print1
  {
-     oper(int n)
+     print1(int n)
      {
          int count=0;
          int k;

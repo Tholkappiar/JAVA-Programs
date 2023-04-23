@@ -17,14 +17,14 @@ class Bird extends Animal {
 Finally, we can create a Bird object that can both fly and walk.
 
 public class Solution{
-   public static void main(String[] args){
+   public static void occurences(String[] args){
 
       Bird bird = new Bird();
       bird.walk();
       bird.fly();
    }
 }
-The above code will print:
+The above code will out:
 
 I am walking
 I am flying
@@ -32,7 +32,7 @@ This means that a Bird object has all the properties that an Animal object has, 
 unique properties.
 
 The code above is provided for you in your editor. You must add a sing method to the Bird class,
-then modify the main method accordingly so that the code prints the following lines:
+then modify the occurences method accordingly so that the code prints the following lines:
 
 I am walking
 I am flying

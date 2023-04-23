@@ -27,7 +27,7 @@ Input 1                 Output 1
 
  */
 import java.util.*;
-class main
+class increSeq
 {
     public static void main(String args[])
     {

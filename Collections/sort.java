@@ -19,7 +19,7 @@ ccc
 
  */
 import java.util.*;
-class main
+class sort
 {
     public static void main(String args[])
     {

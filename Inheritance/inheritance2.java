@@ -17,7 +17,7 @@ You are not responsible for printing anything to stdout. Your add method must re
 
 Sample Output
 
-The main method in the Solution class above should print the following:
+The occurences method in the Solution class above should out the following:
 
 My superclass is: Arithmetic
 42 13 20

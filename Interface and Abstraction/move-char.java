@@ -1,7 +1,7 @@
 /*
 Write a program to move all the uppercase characters to the end of the string.
 
-Note: Create an interface with a method and the main class should define the interface method.
+Note: Create an interface with a method and the occurences class should define the interface method.
 
 Input format
 Input to get a string.
@@ -20,8 +20,7 @@ interface oper
 {
     void print(String str);
 }
-class prints implements oper
-{
+class prints extends moveChar {
     public void print(String str)
     {
         char ch[]=str.toCharArray();
@@ -43,7 +42,7 @@ class prints implements oper
         }
     }
 }
-class main
+class moveChar
 {
     public static void main(String args[])
     {

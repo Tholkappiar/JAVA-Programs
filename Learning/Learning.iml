@@ -7,5 +7,23 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../Learn + git" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../Learn + git/JAVA-Programs/Class and Objects" />
+          <root url="file://$MODULE_DIR$/../../../Learn + git/JAVA-Programs/Collections" />
+          <root url="file://$MODULE_DIR$/../../../Learn + git/JAVA-Programs/Exception Handling" />
+          <root url="file://$MODULE_DIR$/../../../Learn + git/JAVA-Programs/Inheritance" />
+          <root url="file://$MODULE_DIR$/../../../Learn + git/JAVA-Programs/Interface and Abstraction" />
+          <root url="file://$MODULE_DIR$/../../../Learn + git/JAVA-Programs/Learning/src" />
+          <root url="file://$MODULE_DIR$/../../../Learn + git/JAVA-Programs/Searching" />
+          <root url="file://$MODULE_DIR$/../../../Learn + git/JAVA-Programs/Sorting" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>

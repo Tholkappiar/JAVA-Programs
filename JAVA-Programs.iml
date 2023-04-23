@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Class and Objects" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Collections" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exception Handling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Interface and Abstraction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Searching" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sorting" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../Learn + git" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../Learn + git/JAVA-Programs/Class and Objects" />
+          <root url="file://$MODULE_DIR$/../../Learn + git/JAVA-Programs/Collections" />
+          <root url="file://$MODULE_DIR$/../../Learn + git/JAVA-Programs/Exception Handling" />
+          <root url="file://$MODULE_DIR$/../../Learn + git/JAVA-Programs/Inheritance" />
+          <root url="file://$MODULE_DIR$/../../Learn + git/JAVA-Programs/Interface and Abstraction" />
+          <root url="file://$MODULE_DIR$/../../Learn + git/JAVA-Programs/Learning/src" />
+          <root url="file://$MODULE_DIR$/../../Learn + git/JAVA-Programs/Searching" />
+          <root url="file://$MODULE_DIR$/../../Learn + git/JAVA-Programs/Sorting" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,6 +1,6 @@
 /*
-Input an integer as dividend, input another integer as divisor and print the result of division. 
-If the divisor is 0, catch the resulting exception and print the message “divide by 0”
+Input an integer as dividend, input another integer as divisor and out the result of division.
+If the divisor is 0, catch the resulting exception and out the message “divide by 0”
 
 Input format
 The first line of input consists of an integer that represents the dividend
@@ -21,7 +21,7 @@ Input 2         Output 2
 
 */
 import java.util.*;
-class thols
+class printExcep
 {
     public static void main(String args[])
     {

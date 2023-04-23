@@ -6,7 +6,7 @@ If the Register Number does not contain exactly 9 characters in specified format
 If the Mobile Number contains any character other than a digit, raise a NumberFormatException.
 If the Register Number contains any character other than digits and alphabets, throw a NoSuchElementException.
 
-If they are valid, print the message ‘valid’ else ‘Invalid’.
+If they are valid, out the message ‘valid’ else ‘Invalid’.
 Input format
 Register number as a string in the first line
 Mobile number as a string in the second line
@@ -63,7 +63,7 @@ java.lang.NumberFormatException: Mobile Number cannot contain any character othe
 
  // You are using Java
 import java.util.*;
-class main
+class regexExcep
 {
     public static void main(String args[])
     {

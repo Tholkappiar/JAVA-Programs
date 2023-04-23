@@ -2,8 +2,8 @@
 create an abstract class marks with the following method
 
 void getPercentage();
-Create a class A that extends marks and has 3 attributes marks1, marks2, and marks3 and a method getPercentage that calculates and prints the percentage of the student.
-Create a class B that extends marks and has 4 attributes marks1, marks2, marks3, and marks4 and a method getPercentage that calculates and prints the percentage of the student.
+Create a class A that extends marks and has 3 attributes marks1, marks2, and marks3 and a method getPercentage that calculates and prints the percentage1 of the student.
+Create a class B that extends marks and has 4 attributes marks1, marks2, marks3, and marks4 and a method getPercentage that calculates and prints the percentage1 of the student.
 Round off the output to two decimal places.
 
 Input format
@@ -11,8 +11,8 @@ The first line of the input consists of three integers i.e., the marks scored by
 The second line of the input consists of four integers i.e., the marks scored by student B.
 
 Output format
-The first line prints the percentage of A.
-The second line prints the percentage of B.
+The first line prints the percentage1 of A.
+The second line prints the percentage1 of B.
 
 Sample testcases
 Input 1         Output 1
@@ -28,7 +28,7 @@ abstract class marks
     abstract void getpercentage(int n1,int n2,int n3);
     abstract void getpercentage(int num1,int num2,int num3,int num4);
 }
-class percentage extends marks
+class percentage1 extends marks
 {
     void getpercentage(int n1,int n2,int n3)
     {
@@ -41,7 +41,7 @@ class percentage extends marks
         System.out.println(String.format("%.2f",b));
     }
 }
-class main
+class percentage
 {
     public static void main(String args[])
     {
@@ -53,7 +53,7 @@ class main
         int num2=sc.nextInt();
         int num3=sc.nextInt();
         int num4=sc.nextInt();
-        percentage p=new percentage();
+        percentage1 p=new percentage1();
         p.getpercentage(n1,n2,n3);
         p.getpercentage(num1,num2,num3,num4);
     }

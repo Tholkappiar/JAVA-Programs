@@ -1,5 +1,5 @@
 /*
- Create a class ArrayListMain and in the main method get the names and store them in an ArrayList.
+ Create a class ArrayListMain and in the occurences method get the names and store them in an ArrayList.
  After getting all the names, just display them in the same order.
 
 Input format

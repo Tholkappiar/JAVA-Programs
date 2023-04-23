@@ -48,7 +48,7 @@ class calculator extends Abstractclass
         System.out.println(count);
     }
 }
-class main
+class sumOfDivisor
 {
     public static void main(String args[])
     {

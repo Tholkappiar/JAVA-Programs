@@ -7,7 +7,7 @@ Input Format:
 To get 3 integers from the user (Number of gears, Speed of bicycle, and Seat height).
 */
 import java.util.*;
-class oper
+class change
 {
     void thols(int a,int b,int c)
     {
@@ -16,7 +16,7 @@ class oper
         int seat=c;
     }
 }
-class print extends oper
+class out extends change
 {
     void get(int gear,int bicycle,int seat)
     {
@@ -33,7 +33,7 @@ class assign_inheritance
         int a=sc.nextInt();
         int b=sc.nextInt();
         int c=sc.nextInt();
-        print p=new print();
+        out p=new out();
         p.get(a,b,c);
     }
 }

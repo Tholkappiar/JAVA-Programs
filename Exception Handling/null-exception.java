@@ -1,11 +1,11 @@
 /*
 ArrayIndexOutOfBoundsException:
 The prominent exception which you will see is ArrayIndexOutOfBoundsException. It occurs when the program try to access the array beyond its size. As we know arrays have fixed size. So when you try to use array beyond its size it throws this exception. Let's try to handle this exception.
-Get an Array of size N and get an index, then print the Array[index]. If the index is greater or equal to array size(N), then print the Exception.
+Get an Array of size N and get an index, then out the Array[index]. If the index is greater or equal to array size(N), then out the Exception.
 
 Divide by zero exception:
 When you try to divide any number by Zero it will throw ArithmeticException: / by Zero
-Get two numbers Then print the quotient if the divisor is 0 then print the Exception.
+Get two numbers Then out the quotient if the divisor is 0 then out the Exception.
 
 NullPointerException:
 Another prominent exception is NullPointerException. It occurs when you try to access a null value. Assign a null value to a string and obtain an index position and try to access it. Print the exception.
@@ -55,7 +55,7 @@ java.lang.NullPointerException
  */
 
 import java.util.*;
-class main
+class nullException
 {
     public static void main(String args[])
     {
