@@ -1,7 +1,7 @@
 package Sorting;
 
 /////only works when an array starts with 0 and ends with n , without having repetition of numbers //////
-public class MiisingFormula {
+public class MisingFormula {
         public static void main(String args[])
         {
             int[] nums = {0,1,2,3,5,6};
