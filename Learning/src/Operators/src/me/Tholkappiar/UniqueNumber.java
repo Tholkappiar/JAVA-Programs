@@ -1,4 +1,4 @@
-package operators.src.me.Tholkappiar;
+package Operators.src.me.Tholkappiar;
 
 public class UniqueNumber {
     public static void main(String[] args) {

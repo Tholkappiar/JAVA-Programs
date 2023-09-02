@@ -1,4 +1,4 @@
-package others.src.me.Tholkappiar;
+package Others.src.me.Tholkappiar;
 
 public class revInt {
     public static void main(String[] args) {
